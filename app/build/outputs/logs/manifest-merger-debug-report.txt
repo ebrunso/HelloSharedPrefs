@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a2dafc2789b82a57777cb4711eed7b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c22ca5409ad4bf173fa011ab2130858b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3047b9d54bcfc438ecb8027c4cc97e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3ce62220feaee0efce49a5434bb2a454/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b45c0e6517e6a4e55febeefd5eb90d19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d2482beb14bdd8961e91179ca7ebd10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/11a73e1c9a86e811d9d3b3bf389b0a67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8502611c041b6ef19b86c6fcff4b2182/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ca8a6e8bea6fe4d8e34b259731c433d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b2957248a1f579706dd2b8448dab1386/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56154ecf9f8c5f9097600a9f17633a32/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57a90957690cb718349fe40ac1263705/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:16:11-57
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:11-69
+application
+ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c22ca5409ad4bf173fa011ab2130858b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c22ca5409ad4bf173fa011ab2130858b/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a2dafc2789b82a57777cb4711eed7b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a2dafc2789b82a57777cb4711eed7b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c22ca5409ad4bf173fa011ab2130858b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c22ca5409ad4bf173fa011ab2130858b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3047b9d54bcfc438ecb8027c4cc97e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3047b9d54bcfc438ecb8027c4cc97e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3ce62220feaee0efce49a5434bb2a454/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3ce62220feaee0efce49a5434bb2a454/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b45c0e6517e6a4e55febeefd5eb90d19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b45c0e6517e6a4e55febeefd5eb90d19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d2482beb14bdd8961e91179ca7ebd10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2d2482beb14bdd8961e91179ca7ebd10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/11a73e1c9a86e811d9d3b3bf389b0a67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/11a73e1c9a86e811d9d3b3bf389b0a67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8502611c041b6ef19b86c6fcff4b2182/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8502611c041b6ef19b86c6fcff4b2182/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ca8a6e8bea6fe4d8e34b259731c433d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7ca8a6e8bea6fe4d8e34b259731c433d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b2957248a1f579706dd2b8448dab1386/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b2957248a1f579706dd2b8448dab1386/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56154ecf9f8c5f9097600a9f17633a32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56154ecf9f8c5f9097600a9f17633a32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57a90957690cb718349fe40ac1263705/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fieldemployee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57a90957690cb718349fe40ac1263705/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fieldemployee/Desktop/Android Projects/HelloSharedPrefs/app/src/main/AndroidManifest.xml
